@@ -19,6 +19,8 @@ Relational database structure using Sequelize ORM
 -----------------------------
 Node.js
 <br>
+Express.js
+<br>
 Sequelize ORM
 <br>
 MySQL
